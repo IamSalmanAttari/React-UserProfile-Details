@@ -118,7 +118,7 @@ export const Users =  [
       "profession": "Web Developer",
       "description": "Skilled web developer specializing in front-end technologies.",
       "background": "https://images.pexels.com/photos/1001647/pexels-photo-1001647.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1644771/pexels-photo-1644771.jpeg?w=150&h=150",
+      "profileImage": null,
       "profileLink": "https://facebook.com/david.okeke"
     },
     {
@@ -127,7 +127,7 @@ export const Users =  [
       "profession": "Product Manager",
       "description": "Detail-oriented product manager with experience in agile methodologies.",
       "background": "https://images.pexels.com/photos/3184315/pexels-photo-3184315.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1642633/pexels-photo-1642633.jpeg?w=150&h=150",
+      "profileImage": null,
       "profileLink": "https://facebook.com/ngozi.obi"
     },
     {
@@ -136,7 +136,7 @@ export const Users =  [
       "profession": "Software Engineer",
       "description": "Dedicated software engineer with a focus on backend development.",
       "background": "https://images.pexels.com/photos/3184297/pexels-photo-3184297.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1239292/pexels-photo-1239292.jpeg?w=150&h=150",
+      "profileImage": null,
       "profileLink": "https://facebook.com/emeka.uzo"
     },
     {
@@ -172,7 +172,7 @@ export const Users =  [
       "profession": "SEO Specialist",
       "description": "Results-driven SEO specialist helping brands improve their online visibility.",
       "background": "https://images.pexels.com/photos/3184298/pexels-photo-3184298.jpeg",
-      "profileImage": "https://images.pexels.com/photos/1642638/pexels-photo-1642638.jpeg?w=150&h=150",
+      "profileImage": null,
       "profileLink": "https://facebook.com/tunde.ogunleye"
     },
     {
