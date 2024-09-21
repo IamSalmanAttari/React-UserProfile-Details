@@ -12,7 +12,7 @@ const UsersDetails = () => {
   
   const { profession, name, description, profileImage } = singleData;
   return (
-    <div className=" bg-gray-0 text-blue-300 flex flex-wrap gap-3 justify-center py-10">
+    <div className=" bg-gray-950 text-blue-300 flex flex-wrap gap-3 justify-center py-10">
       <div className="left w-[49%]">
         <img
           className=" w-[100%]"
